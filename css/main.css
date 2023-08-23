@@ -1,0 +1,36 @@
+body{
+    background-color: brown;
+}
+.text-block{
+    color: white;
+    border: 5px solid white;
+    text-align: left; /* left(default code),center,right,justify */
+    text-transform: none; /* none(default code),uppercase,lowercase,capitalize */
+    text-decoration: none; /* none(default code),underline,overline,line-through */
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    line-height: 15px;
+}
+.bir{
+    color: white;
+    text-align: center;
+}
+.ikki{
+    color: white;
+    text-align: right;
+}
+.uch{
+    color: white;
+    text-align: justify;
+}
+.tort{
+    color: white;
+    text-transform: uppercase;
+}
+/*
+a{
+    font-size: 35px;
+    color: gray;
+    text-decoration: none;
+}
+*/
